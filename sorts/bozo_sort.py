@@ -18,7 +18,7 @@ python bozo_sort.py
 import random
 
 
-def bozo_sort(array: list):
+def bozo_sort(array: list) -> list:
     """
     Pure Python implementation of the bozosort algorithm.
     Examples:
